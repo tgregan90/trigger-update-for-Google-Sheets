@@ -1,4 +1,4 @@
-# trigger-update-for-Google-Sheets
+# Trigger Update for Google Sheets
 A simple script which can be added to triggers on Google sheets which opens and runs import functions
 
 1. Follow workflow stated here to setup time based trigger [docs](https://developers.google.com/apps-script/guides/triggers/installable#managing_triggers_manually)
